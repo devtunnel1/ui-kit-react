@@ -1,7 +1,7 @@
-import ExampleComponent from './'
+import ColorHeadingOne from './components/ColorHeadingOne'
 
-describe('ExampleComponent', () => {
+describe('ColorHeadingOne', () => {
   it('is truthy', () => {
-    expect(ExampleComponent).toBeTruthy()
+    expect(ColorHeadingOne).toBeTruthy()
   })
 })
