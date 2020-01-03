@@ -2,7 +2,7 @@
 
 > UI Kit for React
 
-[![NPM](https://img.shields.io/badge/npm-v3.0.0-green)](https://www.npmjs.com/package/@devtunnel/ui-kit-react) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
