@@ -1,4 +1,4 @@
-# ui-kit-react
+# @devtunnel/ui-kit-react
 
 > UI Kit for React
 
@@ -7,7 +7,7 @@
 ## Install
 
 ```bash
-npm install --save ui-kit-react
+npm install --save @devtunnel/ui-kit-react
 ```
 
 ## Usage
@@ -15,12 +15,12 @@ npm install --save ui-kit-react
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'ui-kit-react'
+import ColorHeadingOne from '@devtunnel/ui-kit-react'
 
 class Example extends Component {
   render () {
     return (
-      <MyComponent />
+      <ColorHeadingOne />
     )
   }
 }
