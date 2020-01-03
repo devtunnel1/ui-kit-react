@@ -1,6 +1,8 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 
+import style from '../styles.scss'
+
 export default class ColorHeadingOne extends Component {
   static propTypes = {
     text: PropTypes.string,
@@ -14,7 +16,7 @@ export default class ColorHeadingOne extends Component {
     } = this.props
 
     return (
-      <h1 style={{ color }}>
+      <h1 className={style.test} style={{ color }}>
         {text}
       </h1>
     )
