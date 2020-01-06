@@ -7,7 +7,8 @@ export default class App extends Component {
     return (
       <div>
         <h1>This is a test heading.</h1>
-        <ButtonV1 text='This is a test button yo!' />
+        <h2>This is another test heading.</h2>
+        <ButtonV1 text='This is a test button bro!' />
       </div>
     )
   }
